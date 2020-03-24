@@ -1,3 +1,2 @@
 def introduction
-  puts 
 end
